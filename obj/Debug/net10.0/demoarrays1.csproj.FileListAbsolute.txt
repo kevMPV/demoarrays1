@@ -1,0 +1,15 @@
+/workspaces/demoarrays1/bin/Debug/net10.0/demoarrays1
+/workspaces/demoarrays1/bin/Debug/net10.0/demoarrays1.deps.json
+/workspaces/demoarrays1/bin/Debug/net10.0/demoarrays1.runtimeconfig.json
+/workspaces/demoarrays1/bin/Debug/net10.0/demoarrays1.dll
+/workspaces/demoarrays1/bin/Debug/net10.0/demoarrays1.pdb
+/workspaces/demoarrays1/obj/Debug/net10.0/demoarrays1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/demoarrays1/obj/Debug/net10.0/demoarrays1.AssemblyInfoInputs.cache
+/workspaces/demoarrays1/obj/Debug/net10.0/demoarrays1.AssemblyInfo.cs
+/workspaces/demoarrays1/obj/Debug/net10.0/demoarrays1.csproj.CoreCompileInputs.cache
+/workspaces/demoarrays1/obj/Debug/net10.0/demoarrays1.sourcelink.json
+/workspaces/demoarrays1/obj/Debug/net10.0/demoarrays1.dll
+/workspaces/demoarrays1/obj/Debug/net10.0/refint/demoarrays1.dll
+/workspaces/demoarrays1/obj/Debug/net10.0/demoarrays1.pdb
+/workspaces/demoarrays1/obj/Debug/net10.0/demoarrays1.genruntimeconfig.cache
+/workspaces/demoarrays1/obj/Debug/net10.0/ref/demoarrays1.dll
